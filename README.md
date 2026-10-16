@@ -2,7 +2,6 @@
 
 想要我的 code 嗎？想要的話可以全部給你，去找吧！我把所有的 code 都放在那裡了。
 
-<kbd> 📜 查看所有儲存庫 (All Repos) </kbd> &nbsp; <kbd> 🦈 查看 Pull Shark 勳章 </kbd> &nbsp; <kbd> ✉️ 聯絡船長 </kbd>
 <!--
 **dv-asusu/dv-asusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
