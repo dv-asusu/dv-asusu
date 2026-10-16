@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+大家安安，久未謀面近來可好
+
+
 <!--
 **dv-asusu/dv-asusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
